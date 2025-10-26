@@ -47,6 +47,10 @@ public class SudokuBoard {
       result += "+-------+-------+-------+\n";
       return result;
    }
+   
+   //create isSolved method
+   
+   //create isValid method
          
 }
 
